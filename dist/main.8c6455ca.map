@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["$","find","addClass"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,EAAE,OAAF,EAAWC,IAAX,CAAgB,QAAhB,EAA0BC,QAA1B,CAAmC,KAAnC","file":"main.8c6455ca.map","sourceRoot":"..\\src","sourcesContent":["$('.test').find('.child').addClass('red') "]}
